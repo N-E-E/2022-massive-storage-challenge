@@ -1,0 +1,119 @@
+d{"DriverID": 0, "Capacity": 100, "LogicalClock": 0}
+d{"DriverID": 1, "Capacity": 100, "LogicalClock": 0}
+d{"DriverID": 2, "Capacity": 100, "LogicalClock": 0}
+d{"DriverID": 3, "Capacity": 100, "LogicalClock": 0}
+r00000000{"RequestID": 0, "RequestType": "BE", "SLA": 12, "Driver": [1], "RequestSize": 111, "LogicalClock": 0}
+r00000000{"RequestID": 1, "RequestType": "FE", "SLA": 12, "Driver": [1], "RequestSize": 80, "LogicalClock": 0}
+r00000000{"RequestID": 2, "RequestType": "BE", "SLA": 12, "Driver": [1], "RequestSize": 92, "LogicalClock": 0}
+r00000000{"RequestID": 3, "RequestType": "BE", "SLA": 12, "Driver": [3], "RequestSize": 58, "LogicalClock": 0}
+r00000000{"RequestID": 4, "RequestType": "BE", "SLA": 12, "Driver": [3], "RequestSize": 33, "LogicalClock": 0}
+r00000000{"RequestID": 5, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 13, "LogicalClock": 0}
+r00000000{"RequestID": 6, "RequestType": "EM", "SLA": 1, "Driver": [3, 1], "RequestSize": 26, "LogicalClock": 0}
+r00000000{"RequestID": 7, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 52, "LogicalClock": 0}
+r00000000{"RequestID": 8, "RequestType": "FE", "SLA": 1, "Driver": [3, 0], "RequestSize": 116, "LogicalClock": 0}
+r00000000{"RequestID": 9, "RequestType": "FE", "SLA": 1, "Driver": [3, 1], "RequestSize": 9, "LogicalClock": 0}
+r00000000{"RequestID": 10, "RequestType": "FE", "SLA": 1, "Driver": [1], "RequestSize": 107, "LogicalClock": 0}
+r00000000{"RequestID": 11, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 121, "LogicalClock": 0}
+r00000000{"RequestID": 12, "RequestType": "FE", "SLA": 6, "Driver": [3], "RequestSize": 19, "LogicalClock": 0}
+r00000000{"RequestID": 13, "RequestType": "EM", "SLA": 1, "Driver": [0], "RequestSize": 42, "LogicalClock": 0}
+r00000000{"RequestID": 14, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 49, "LogicalClock": 0}
+r00000000{"RequestID": 15, "RequestType": "FE", "SLA": 12, "Driver": [2], "RequestSize": 53, "LogicalClock": 0}
+r00000000{"RequestID": 16, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 128, "LogicalClock": 0}
+r00000000{"RequestID": 17, "RequestType": "EM", "SLA": 1, "Driver": [2], "RequestSize": 4, "LogicalClock": 0}
+r00000000{"RequestID": 18, "RequestType": "FE", "SLA": 6, "Driver": [1], "RequestSize": 113, "LogicalClock": 0}
+r00000000{"RequestID": 19, "RequestType": "EM", "SLA": 1, "Driver": [3], "RequestSize": 52, "LogicalClock": 0}
+r00000000{"RequestID": 20, "RequestType": "EM", "SLA": 1, "Driver": [1, 2], "RequestSize": 70, "LogicalClock": 0}
+r00000000{"RequestID": 21, "RequestType": "EM", "SLA": 1, "Driver": [3, 0], "RequestSize": 10, "LogicalClock": 0}
+r00000000{"RequestID": 22, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 30, "LogicalClock": 0}
+r00000000{"RequestID": 23, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 23, "LogicalClock": 0}
+r00000000{"RequestID": 24, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 51, "LogicalClock": 0}
+r00000000{"RequestID": 25, "RequestType": "EM", "SLA": 1, "Driver": [0, 1], "RequestSize": 112, "LogicalClock": 0}
+r00000000{"RequestID": 26, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 57, "LogicalClock": 0}
+r00000000{"RequestID": 27, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 69, "LogicalClock": 0}
+r00000000{"RequestID": 28, "RequestType": "EM", "SLA": 1, "Driver": [0], "RequestSize": 7, "LogicalClock": 0}
+r00000000{"RequestID": 29, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 122, "LogicalClock": 0}
+r00000000{"RequestID": 30, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 64, "LogicalClock": 0}
+r00000000{"RequestID": 31, "RequestType": "FE", "SLA": 1, "Driver": [2], "RequestSize": 40, "LogicalClock": 0}
+r00000000{"RequestID": 32, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 47, "LogicalClock": 0}
+r00000000{"RequestID": 33, "RequestType": "BE", "SLA": 12, "Driver": [1], "RequestSize": 103, "LogicalClock": 0}
+r00000000{"RequestID": 34, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 85, "LogicalClock": 0}
+r00000000{"RequestID": 35, "RequestType": "FE", "SLA": 1, "Driver": [2, 0], "RequestSize": 121, "LogicalClock": 0}
+r00000000{"RequestID": 36, "RequestType": "EM", "SLA": 1, "Driver": [2], "RequestSize": 115, "LogicalClock": 0}
+r00000000{"RequestID": 37, "RequestType": "BE", "SLA": 12, "Driver": [3], "RequestSize": 114, "LogicalClock": 0}
+r00000000{"RequestID": 38, "RequestType": "EM", "SLA": 1, "Driver": [2], "RequestSize": 94, "LogicalClock": 0}
+r00000000{"RequestID": 39, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 46, "LogicalClock": 0}
+r00000000{"RequestID": 40, "RequestType": "FE", "SLA": 12, "Driver": [2, 1], "RequestSize": 62, "LogicalClock": 0}
+r00000000{"RequestID": 41, "RequestType": "EM", "SLA": 1, "Driver": [3, 1], "RequestSize": 104, "LogicalClock": 0}
+r00000000{"RequestID": 42, "RequestType": "BE", "SLA": 12, "Driver": [2, 3], "RequestSize": 85, "LogicalClock": 0}
+r00000000{"RequestID": 43, "RequestType": "BE", "SLA": 12, "Driver": [0, 2], "RequestSize": 21, "LogicalClock": 0}
+r00000000{"RequestID": 44, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 2, "LogicalClock": 0}
+r00000000{"RequestID": 45, "RequestType": "EM", "SLA": 1, "Driver": [0, 3], "RequestSize": 40, "LogicalClock": 0}
+r00000000{"RequestID": 46, "RequestType": "EM", "SLA": 1, "Driver": [2], "RequestSize": 37, "LogicalClock": 0}
+r00000000{"RequestID": 47, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 49, "LogicalClock": 0}
+r00000000{"RequestID": 48, "RequestType": "EM", "SLA": 1, "Driver": [0], "RequestSize": 72, "LogicalClock": 0}
+r00000000{"RequestID": 49, "RequestType": "EM", "SLA": 1, "Driver": [2, 1], "RequestSize": 55, "LogicalClock": 0}
+r00000000{"RequestID": 50, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 22, "LogicalClock": 0}
+r00000000{"RequestID": 51, "RequestType": "FE", "SLA": 6, "Driver": [2], "RequestSize": 49, "LogicalClock": 0}
+r00000000{"RequestID": 52, "RequestType": "BE", "SLA": 12, "Driver": [2, 0], "RequestSize": 6, "LogicalClock": 0}
+r00000000{"RequestID": 53, "RequestType": "FE", "SLA": 12, "Driver": [2], "RequestSize": 116, "LogicalClock": 0}
+r00000000{"RequestID": 54, "RequestType": "EM", "SLA": 1, "Driver": [0, 3], "RequestSize": 41, "LogicalClock": 0}
+r00000000{"RequestID": 55, "RequestType": "BE", "SLA": 12, "Driver": [0, 1], "RequestSize": 106, "LogicalClock": 0}
+r00000000{"RequestID": 56, "RequestType": "FE", "SLA": 6, "Driver": [0], "RequestSize": 97, "LogicalClock": 0}
+r00000000{"RequestID": 57, "RequestType": "BE", "SLA": 12, "Driver": [0, 2], "RequestSize": 25, "LogicalClock": 0}
+r00000000{"RequestID": 58, "RequestType": "FE", "SLA": 6, "Driver": [3, 1], "RequestSize": 112, "LogicalClock": 0}
+r00000000{"RequestID": 59, "RequestType": "FE", "SLA": 12, "Driver": [3], "RequestSize": 93, "LogicalClock": 0}
+r00000000{"RequestID": 60, "RequestType": "BE", "SLA": 12, "Driver": [3, 1], "RequestSize": 4, "LogicalClock": 0}
+r00000000{"RequestID": 61, "RequestType": "FE", "SLA": 1, "Driver": [1, 3], "RequestSize": 77, "LogicalClock": 0}
+r00000000{"RequestID": 62, "RequestType": "FE", "SLA": 12, "Driver": [0], "RequestSize": 102, "LogicalClock": 0}
+r00000000{"RequestID": 63, "RequestType": "FE", "SLA": 12, "Driver": [3], "RequestSize": 65, "LogicalClock": 0}
+r00000000{"RequestID": 64, "RequestType": "FE", "SLA": 12, "Driver": [3], "RequestSize": 24, "LogicalClock": 0}
+r00000000{"RequestID": 65, "RequestType": "BE", "SLA": 12, "Driver": [1, 3], "RequestSize": 4, "LogicalClock": 0}
+r00000000{"RequestID": 66, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 87, "LogicalClock": 0}
+r00000000{"RequestID": 67, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 104, "LogicalClock": 0}
+r00000000{"RequestID": 68, "RequestType": "FE", "SLA": 1, "Driver": [2], "RequestSize": 22, "LogicalClock": 0}
+r00000000{"RequestID": 69, "RequestType": "EM", "SLA": 1, "Driver": [2], "RequestSize": 22, "LogicalClock": 0}
+r00000000{"RequestID": 70, "RequestType": "EM", "SLA": 1, "Driver": [3, 0], "RequestSize": 46, "LogicalClock": 0}
+r00000000{"RequestID": 71, "RequestType": "BE", "SLA": 12, "Driver": [0, 3], "RequestSize": 1, "LogicalClock": 0}
+r00000000{"RequestID": 72, "RequestType": "FE", "SLA": 12, "Driver": [0], "RequestSize": 32, "LogicalClock": 0}
+r00000000{"RequestID": 73, "RequestType": "BE", "SLA": 12, "Driver": [2], "RequestSize": 13, "LogicalClock": 0}
+r00000000{"RequestID": 74, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 40, "LogicalClock": 0}
+r00000000{"RequestID": 75, "RequestType": "FE", "SLA": 1, "Driver": [0], "RequestSize": 46, "LogicalClock": 0}
+r00000000{"RequestID": 76, "RequestType": "EM", "SLA": 1, "Driver": [0, 1], "RequestSize": 45, "LogicalClock": 0}
+r00000000{"RequestID": 77, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 102, "LogicalClock": 0}
+r00000000{"RequestID": 78, "RequestType": "FE", "SLA": 1, "Driver": [1, 3], "RequestSize": 58, "LogicalClock": 0}
+r00000000{"RequestID": 79, "RequestType": "FE", "SLA": 6, "Driver": [0, 2], "RequestSize": 0, "LogicalClock": 0}
+r00000000{"RequestID": 80, "RequestType": "FE", "SLA": 12, "Driver": [2], "RequestSize": 107, "LogicalClock": 0}
+r00000000{"RequestID": 81, "RequestType": "FE", "SLA": 12, "Driver": [3], "RequestSize": 119, "LogicalClock": 0}
+r00000000{"RequestID": 82, "RequestType": "BE", "SLA": 12, "Driver": [0, 2], "RequestSize": 25, "LogicalClock": 0}
+r00000000{"RequestID": 83, "RequestType": "FE", "SLA": 1, "Driver": [0], "RequestSize": 0, "LogicalClock": 0}
+r00000000{"RequestID": 84, "RequestType": "EM", "SLA": 1, "Driver": [0], "RequestSize": 123, "LogicalClock": 0}
+r00000000{"RequestID": 85, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 108, "LogicalClock": 0}
+r00000000{"RequestID": 86, "RequestType": "FE", "SLA": 1, "Driver": [0], "RequestSize": 123, "LogicalClock": 0}
+r00000000{"RequestID": 87, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 83, "LogicalClock": 0}
+r00000000{"RequestID": 88, "RequestType": "BE", "SLA": 12, "Driver": [2, 0], "RequestSize": 8, "LogicalClock": 0}
+r00000000{"RequestID": 89, "RequestType": "FE", "SLA": 6, "Driver": [0], "RequestSize": 118, "LogicalClock": 0}
+r00000000{"RequestID": 90, "RequestType": "BE", "SLA": 12, "Driver": [0, 2], "RequestSize": 50, "LogicalClock": 0}
+r00000000{"RequestID": 91, "RequestType": "EM", "SLA": 1, "Driver": [0], "RequestSize": 86, "LogicalClock": 0}
+r00000000{"RequestID": 92, "RequestType": "FE", "SLA": 12, "Driver": [0, 2], "RequestSize": 123, "LogicalClock": 0}
+r00000000{"RequestID": 93, "RequestType": "FE", "SLA": 6, "Driver": [3], "RequestSize": 6, "LogicalClock": 0}
+r00000000{"RequestID": 94, "RequestType": "BE", "SLA": 12, "Driver": [1], "RequestSize": 51, "LogicalClock": 0}
+r00000000{"RequestID": 95, "RequestType": "FE", "SLA": 6, "Driver": [0], "RequestSize": 48, "LogicalClock": 0}
+r00000000{"RequestID": 96, "RequestType": "FE", "SLA": 12, "Driver": [2, 1], "RequestSize": 69, "LogicalClock": 0}
+r00000000{"RequestID": 97, "RequestType": "BE", "SLA": 12, "Driver": [1], "RequestSize": 6, "LogicalClock": 0}
+r00000000{"RequestID": 98, "RequestType": "BE", "SLA": 12, "Driver": [1], "RequestSize": 62, "LogicalClock": 0}
+r00000000{"RequestID": 99, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 53, "LogicalClock": 0}
+r00000000{"RequestID": 100, "RequestType": "BE", "SLA": 12, "Driver": [0], "RequestSize": 84, "LogicalClock": 0}
+r00000000{"RequestID": 101, "RequestType": "EM", "SLA": 1, "Driver": [0], "RequestSize": 39, "LogicalClock": 0}
+r00000000{"RequestID": 102, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 9, "LogicalClock": 0}
+r00000000{"RequestID": 103, "RequestType": "BE", "SLA": 12, "Driver": [3], "RequestSize": 63, "LogicalClock": 0}
+r00000000{"RequestID": 104, "RequestType": "BE", "SLA": 12, "Driver": [3], "RequestSize": 100, "LogicalClock": 0}
+r00000000{"RequestID": 105, "RequestType": "FE", "SLA": 1, "Driver": [3], "RequestSize": 98, "LogicalClock": 0}
+r00000000{"RequestID": 106, "RequestType": "EM", "SLA": 1, "Driver": [3, 1], "RequestSize": 84, "LogicalClock": 0}
+r00000000{"RequestID": 107, "RequestType": "BE", "SLA": 12, "Driver": [1, 3], "RequestSize": 21, "LogicalClock": 0}
+r00000000{"RequestID": 108, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 31, "LogicalClock": 0}
+r00000000{"RequestID": 109, "RequestType": "BE", "SLA": 12, "Driver": [3], "RequestSize": 52, "LogicalClock": 0}
+r00000000{"RequestID": 110, "RequestType": "EM", "SLA": 1, "Driver": [2], "RequestSize": 74, "LogicalClock": 0}
+r00000000{"RequestID": 111, "RequestType": "EM", "SLA": 1, "Driver": [1], "RequestSize": 109, "LogicalClock": 0}
+r00000000{"RequestID": 112, "RequestType": "FE", "SLA": 1, "Driver": [2], "RequestSize": 62, "LogicalClock": 0}
+r00000000{"RequestID": 113, "RequestType": "EM", "SLA": 1, "Driver": [3, 1], "RequestSize": 126, "LogicalClock": 0}
+r00000000{"RequestID": 114, "RequestType": "FE", "SLA": 12, "Driver": [2], "RequestSize": 115, "LogicalClock": 0}
